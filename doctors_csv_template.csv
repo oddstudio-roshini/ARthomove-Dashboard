@@ -1,0 +1,3 @@
+firstName,lastName,email,mobile,birthYear,specialization,clinic,status,notes
+John,Smith,john.smith@clinic.com,9876543210,1980,Orthopedic Surgery,City Medical Center,ACTIVE,
+Jane,Doe,jane.doe@hospital.com,9876543211,1985,Sports Medicine,Apollo Hospital,ACTIVE,Senior consultant
